@@ -16,4 +16,4 @@ Estopia Chat is our flagship product — A next generation platform that allows 
 Clarik is our product to help make a difference — It is a medicinal tracking app to help with tracking your intake of medical products. It will contain features like reminders, tasks and much more.
 - It will have support for IOS and Android
 
-Join us and discover what makes Estopia Chat the best way to connect
+*Join us and discover what makes Estopia Chat the best way to connect*
