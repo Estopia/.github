@@ -1,6 +1,6 @@
-# Estopia
+# Estopia Engineering
 
-Welcome to **Estopia**, a small business of people who aspire to the world better, starting from communication.
+Welcome to **Estopia Engineering**, a small business of people who aspire to the world better, starting from communication.
 
 We specialise in tech, making applications, bots and many more products (listed below)
 
