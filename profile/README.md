@@ -4,7 +4,7 @@
 
 **Websites, apps, internal tools, and digital products built with clarity, speed, and taste.**
 
-[Website](https://estopia.net) • [Contact](mailto:timo@estopia.net)
+[Website](https://estopia.net) • [Contact](mailto:contact@estopia.net)
 
 </div>
 
@@ -129,7 +129,7 @@ We are especially interested in working with:
 ## Contact
 
 Website: https://estopia.net
-Email: [timo@estopia.net](mailto:timo@estopia.net)
+Email: [contact@estopia.net](mailto:contact@estopia.net)
 
 ## Status
 
