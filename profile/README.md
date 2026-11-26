@@ -1,138 +1,31 @@
-<div align="center">
+# Estopia Engineering
 
-# Estopia Engineering Ltd.
+We're a small software company in Fife, Scotland. We build and host websites for small businesses, make mobile apps and browser extensions for clients, and run apps of our own.
 
-**Websites, apps, internal tools, and digital products built with clarity, speed, and taste.**
+[Website](https://estopia.net) · [Our services](https://estopia.net/services) · [Get a quote](https://estopia.net/quote) · [hello@estopia.net](mailto:hello@estopia.net)
 
-[Website](https://estopia.net) • [Contact](mailto:contact@estopia.net)
+## Our apps
 
-</div>
+| App | What it does | Get it |
+| :-- | :-- | :-- |
+| [Plated](https://estopia.net/plated) | Save recipes from websites, YouTube and TikTok, then plan, shop and cook from them. | [App Store](https://apps.apple.com/gb/app/plated-save-it-cook-it/id6824312897) · [Google Play](https://play.google.com/store/apps/details?id=net.estopia.plated) |
+| [Clockmint](https://clockmint.estopia.net/) | Time tracking, invoices and a UK tax estimate for freelancers. iPhone, iPad, Mac and Apple Watch. | [App Store](https://apps.apple.com/gb/app/clockmint-time-invoices/id6813594690) |
+| [Notifolio](https://estopia.net/notifolio) | A private, on-device archive of your Android notifications. | [Google Play](https://play.google.com/store/apps/details?id=com.estopia.notifolio) |
+| [Drift](https://estopia.net/drift) | Motion cue dots that ease motion sickness when you use your phone as a passenger. | [Google Play](https://play.google.com/store/apps/details?id=drift.estopia.net) |
+| [Bloom](https://estopia.net/bloom) | A journaling app for healing and moving on. | [App Store](https://apps.apple.com/gb/app/bloom-heal-move-on/id6757967172) |
+| Clarik | Your medications organised, with reminders. | [App Store](https://apps.apple.com/gb/app/clarik-your-meds-organized/id6752529544) |
+| Pingtell | Reads selected Android notifications aloud, processed on your device. | [Google Play](https://play.google.com/store/apps/details?id=net.estopia.pingtell) |
 
-## About us
+[Estopia One](https://accounts.estopia.net/one) gets you Pro in every app, plus AI tokens each month.
 
-Estopia Engineering Ltd. is a UK based software and web development company building modern digital products for businesses, schools, startups, and ambitious teams.
+## Open source
 
-We create websites, applications, internal tools, automation systems, and product experiences that are fast, useful, and easy to understand.
+- **[Tessellate](https://github.com/estopia/Tessellate)**: arrange images into justified, fixed-scale or masonry grids and export them, all in your browser. [Try it](https://tessellate.estopia.net).
+- **[nudge](https://github.com/estopia/nudge)**: an Android app and Rust Linux daemon that switch to a Bluetooth hotspot when Wi-Fi drops, without draining your battery.
+- **[Cold Cat](https://github.com/estopia/Cold-Cat)**: a website and app blocker for Windows and Linux, written in Rust.
+- **[Micro-Home](https://github.com/estopia/Micro-Home)**: connect BBC micro:bit sensors and buttons to Home Assistant over Bluetooth.
+- **[curious.fun](https://github.com/estopia/curious.fun)**: a collection of tiny web experiments.
 
-Our work combines practical engineering with strong product thinking. We care about clean execution, thoughtful design, and software that actually helps people get things done.
+## Work with us
 
-## What we build
-
-| Area           | What we deliver                                                                |
-| :------------- | :----------------------------------------------------------------------------- |
-| Websites       | Business websites, landing pages, portfolio sites, and marketing pages         |
-| Web apps       | Custom platforms, dashboards, portals, and SaaS products                       |
-| Internal tools | Admin panels, workflow tools, automation systems, and business software        |
-| Product design | User journeys, interface structure, product strategy, and UX improvements      |
-| Technical work | API integrations, performance improvements, audits, and infrastructure support |
-
-We help turn ideas, outdated systems, and messy workflows into digital products that feel simple, reliable, and ready to grow.
-
-## How we work
-
-We believe good software should feel obvious.
-
-That means clear interfaces, focused features, fast performance, and technical foundations that do not collapse as the product grows.
-
-We like to move quickly, but not carelessly. Every project should have a clear goal, a clean structure, and a product experience that makes sense for the people using it.
-
-## Our focus
-
-### Client projects
-
-We build digital solutions for companies and organizations that need better websites, stronger systems, or custom software.
-
-This includes new builds, redesigns, technical improvements, and tools that replace slow manual processes.
-
-### Internal products
-
-Alongside client work, we build our own products and experiments. These include productivity tools, communication software, automation systems, and niche platforms.
-
-### Long term vision
-
-Estopia is more than a development agency. We are building an ecosystem of useful digital products and services that work together, create value, and improve how people use software.
-
-## Technology
-
-We choose tools based on what helps a product ship faster, run better, and stay maintainable.
-
-Common technologies we work with include:
-
-* TypeScript
-* React
-* Next.js
-* Astro
-* Vite
-* Node.js
-* Python
-* Tauri
-* PostgreSQL
-* Supabase
-* Docker
-* Linux servers
-* GitHub
-* Cloudflare
-* Stripe
-* Tailwind CSS
-
-## What makes us different
-
-We are a small team, which means we can communicate directly, make decisions quickly, and stay close to the details.
-
-We do not only write code. We think about the product, the user, the business goal, and the experience around it.
-
-Our goal is to build software that is not just functional, but polished, understandable, and genuinely useful.
-
-## Team
-
-| Name          | Role                     |
-| :------------ | :----------------------- |
-| Jay Brammeld  | Director                 |
-| Timo Haseloff | Director                 |
-| Jayden Crouch | Chief Technology Officer |
-
-## Development principles
-
-### Build useful things first
-
-A product should solve a real problem before it tries to impress people.
-
-### Keep the experience clean
-
-Good software should feel simple, focused, and easy to use.
-
-### Ship, learn, improve
-
-We prefer real progress over endless planning. We build, test, improve, and repeat.
-
-### Respect privacy
-
-User trust matters. Data collection should be intentional, secure, and limited to what is actually needed.
-
-### Make it maintainable
-
-Fast development matters, but the code still needs to be understandable after launch.
-
-## Good fits
-
-We are open to projects where we can create clear value.
-
-We are especially interested in working with:
-
-* Businesses that need a modern website
-* Startups building an MVP or SaaS product
-* Schools and education providers improving their digital experience
-* Teams that need internal tools or automation
-* Founders who need technical execution
-* Companies with outdated systems that need modernization
-
-## Contact
-
-Website: https://estopia.net
-Email: [contact@estopia.net](mailto:contact@estopia.net)
-
-## Status
-
-We are actively building, improving, and shipping.
-
-Some of our work is public. Some of it is private client work. Some of it is experimental. All of it is part of the bigger Estopia vision.
+We build websites, web apps and mobile apps for small businesses, and look after them once they're live. See [recent projects](https://estopia.net/projects) or [ask for a quote](https://estopia.net/quote).
